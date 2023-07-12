@@ -5,7 +5,15 @@
  - `gl_FragColor`: Biến đầu ra của 1 shader để xác định màu của pixel hiện tại
  - Mọi giá trị `color/coord` nên được chuẩn hoá về `0.0 đến 1.0`
 
+```glsl
+float random(float p) {
+  return fract(sin(p)*10000.);
+}
 
+float noise(vec2 p) {
+  return random(p.x + p.y*10000.);
+}
+```
 
 ****Ví dụ****
 
