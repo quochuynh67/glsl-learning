@@ -1,6 +1,6 @@
 # glsl-learning
 
-****Một FragmentShader sẽ bao gồm****
+****FragmentShader****
  - `gl_FragCoord`: Biến đầu vào để xác định vị trí pixel hiện tại đang cần tính toán.
  - `gl_FragColor`: Biến đầu ra của 1 shader để xác định màu của pixel hiện tại
  - Mọi giá trị `color/coord` nên được chuẩn hoá về `0.0 đến 1.0`
