@@ -1,6 +1,6 @@
 # glsl-learning
 
-[1. Hệ trục toạ độ tại left-bottom của canvas](left-bottom-of-coord.md)
+[1. Hệ trục toạ độ tại left-bottom của canvas](left-bottom-coord.md)
 
 <img width="300" alt="image" src="https://github.com/quochuynh67/glsl-learning/assets/38383168/33335a49-18b9-4d70-abfc-cf4e8783cfe0">
 
