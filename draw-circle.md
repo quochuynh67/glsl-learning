@@ -64,3 +64,17 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 	fragColor = vec4(pixel, 1.0);
 }
 ```
+
+
+
+Hàm
+
+```glsl
+void disk(vec2 r, vec2 center, float radius, vec3 color, inout vec3 pixel) {
+	if( length(r-center) < radius) {
+		pixel = color;
+	}
+}
+```
+
+
