@@ -27,3 +27,12 @@
 [3. Di chuyển trục toạ độ về giữa của canvas](center-of-coord.md)
 
 <img width="300" alt="image" src="https://github.com/quochuynh67/glsl-learning/assets/38383168/8da7ca15-e3b3-4a4a-967e-85ec204f474c">
+
+
+------------------------------------------------------------------------------------------------
+
+[4. Vẽ các hình tròn](draw-circle.md)
+
+
+<img width="300" alt="image" src="https://github.com/quochuynh67/glsl-learning/assets/38383168/2479d801-1322-4401-b17b-03a51b17e84d">
+
